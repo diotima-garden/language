@@ -1,0 +1,3 @@
+[submodule "parents/deck"]
+	path = parents/deck
+	url = https://github.com/diotima-garden/deck.git
